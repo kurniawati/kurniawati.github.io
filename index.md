@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Selamat Datang dengan Produk Kurniawati versi Github :)
 
-You can use the [editor on GitHub](https://github.com/kurniawati/kurniawati.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Belajarlah sedikit demi sedikit, lama-lama menjadi bukit!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### MARKDOWN
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+kali ini adalah contoh untuk publikasi markdown!
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +24,15 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+untuk melihat cara instal Rstudio bisa akses laman ini [apa itu Rstudio?](https://kurkurniawati.wordpress.com/2021/03/02/apa-itu-rstudio-dan-rpubs-dan-bagaimana-cara-instal-rstudio/).
 
-### Jekyll Themes
+##### Pembelajaran pada Rpubs
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kurniawati/kurniawati.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Data Visualisasi
+Bab ini adalah mengenal tentang Data Visualisasi yang mana penjelasan detail ada pada [Data Visualisai](https://rpubs.com/kurnia/visualitation). 
 
-### Support or Contact
+### Data Tranfsormasi 
+Bab ini adalah mengenal tentang Data transformasi yang mana penjelasan detail ada pada [Data TRansformasi](https://rpubs.com/kurnia/729985) 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Aljabar Linier
+Bab ini adalah mengenal tentang Aljabar Linier yang mana penjelasan detail ada pada [Aljabar Linier](https://rpubs.com/kurnia/731157) 
